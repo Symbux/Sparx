@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 **What package does your bug report relate to?**
-- [ ] `@sparx/core`
+- [x] `@sparx/core`
 - [ ] `@sparx/discord`
 - [ ] `@sparx/docs`
 - [ ] `@sparx/http`

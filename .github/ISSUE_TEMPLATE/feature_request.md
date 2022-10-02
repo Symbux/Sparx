@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **What package does your feature request relate to?**
-- [ ] `@sparx/core`
+- [x] `@sparx/core`
 - [ ] `@sparx/discord`
 - [ ] `@sparx/docs`
 - [ ] `@sparx/http`

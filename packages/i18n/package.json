@@ -1,17 +1,14 @@
 {
-  "name": "@sparx/ws",
+  "name": "@sparx/i18n",
   "version": "0.1.0",
-  "description": "The websocket extension for the sparx framework.",
+  "description": "The internationalisation/translation extension for the sparx framework.",
   "keywords": [
     "sparx",
     "framework",
-    "websocket",
-    "api",
-    "ws",
-    "wss",
-    "tcp",
-    "tunnel",
-    "web"
+    "i18n",
+    "internationalisation",
+    "translation",
+    "t10n"
   ],
   "author": "Danny S <danny.smc95@gmail.com>",
   "homepage": "https://symbux.dev/sparx",

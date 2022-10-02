@@ -1,17 +1,18 @@
 {
-  "name": "@sparx/ws",
+  "name": "@sparx/prisma",
   "version": "0.1.0",
-  "description": "The websocket extension for the sparx framework.",
+  "description": "The prisma orm extension for the sparx framework enabling full Prisma ORM implementation.",
   "keywords": [
     "sparx",
     "framework",
-    "websocket",
-    "api",
-    "ws",
-    "wss",
-    "tcp",
-    "tunnel",
-    "web"
+    "prisma",
+    "orm",
+    "database",
+    "mysql",
+    "mssql",
+    "mongodb",
+    "mongo",
+    "postgresql"
   ],
   "author": "Danny S <danny.smc95@gmail.com>",
   "homepage": "https://symbux.dev/sparx",

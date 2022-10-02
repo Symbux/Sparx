@@ -1,0 +1,4 @@
+* Add tsconfig.json
+* Add src file.
+* Change all starting files.
+* Add tsc command.

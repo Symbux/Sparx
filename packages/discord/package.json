@@ -1,17 +1,16 @@
 {
-  "name": "@sparx/ws",
+  "name": "@sparx/discord",
   "version": "0.1.0",
-  "description": "The websocket extension for the sparx framework.",
+  "description": "The discord extension for the sparx framework offering Discord bot control and SSO functionality.",
   "keywords": [
     "sparx",
     "framework",
-    "websocket",
-    "api",
-    "ws",
-    "wss",
-    "tcp",
-    "tunnel",
-    "web"
+    "discord",
+    "sso",
+    "oauth2",
+    "oauth",
+    "bot",
+    "discordjs"
   ],
   "author": "Danny S <danny.smc95@gmail.com>",
   "homepage": "https://symbux.dev/sparx",

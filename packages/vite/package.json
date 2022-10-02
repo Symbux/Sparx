@@ -1,17 +1,19 @@
 {
-  "name": "@sparx/ws",
+  "name": "@sparx/vite",
   "version": "0.1.0",
-  "description": "The websocket extension for the sparx framework.",
+  "description": "The vite extension for the sparx framework, offering SSR, SSG and HMR.",
   "keywords": [
     "sparx",
     "framework",
-    "websocket",
-    "api",
-    "ws",
-    "wss",
-    "tcp",
-    "tunnel",
-    "web"
+    "http",
+    "ssr",
+    "ssg",
+    "hmr",
+    "vite",
+    "vue",
+    "react",
+    "vue3",
+    "vuejs"
   ],
   "author": "Danny S <danny.smc95@gmail.com>",
   "homepage": "https://symbux.dev/sparx",

@@ -14,16 +14,23 @@
   "author": "Danny S <danny.smc95@gmail.com>",
   "homepage": "https://symbux.dev/sparx",
   "license": "Apache-2.0",
-  "main": "lib/http.js",
+  "main": "lib/index.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Symbux/Sparx.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Symbux/Sparx/issues"
   },
   "files": [
     "lib"
   ],
   "scripts": {
-	"tsc": "tsc",
-    "test": "node ./__tests__/http.test.js"
+    "build": "tsc",
+    "clean": "rm -rf lib"
   }
 }

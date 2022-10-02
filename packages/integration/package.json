@@ -12,6 +12,13 @@
   "devDependencies": {
     "ts-node": "^10.9.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Symbux/Sparx.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Symbux/Sparx/issues"
+  },
   "scripts": {
     "start": "ts-node src/index.ts"
   }

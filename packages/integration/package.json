@@ -7,7 +7,15 @@
   "license": "Apache-2.0",
   "private": true,
   "dependencies": {
-    "@sparx/core": "^0.1.0"
+    "@sparx/core": "^0.1.0",
+    "@sparx/discord": "^0.1.0",
+    "@sparx/docs": "^0.1.0",
+    "@sparx/http": "^0.1.0",
+    "@sparx/i18n": "^0.1.0",
+    "@sparx/prisma": "^0.1.0",
+    "@sparx/schema": "^0.1.0",
+    "@sparx/vite": "^0.1.0",
+    "@sparx/ws": "^0.1.0"
   },
   "devDependencies": {
     "ts-node": "^10.9.1"

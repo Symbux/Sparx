@@ -1,3 +1,3 @@
-export default function Core() {
+export default function Index() {
 	console.log('Hello from @sparx/i18n');
 }

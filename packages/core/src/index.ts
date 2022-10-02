@@ -1,3 +1,9 @@
-export default function Index() {
-	console.log('Hello from @sparx/core');
-}
+import Framework from './module/framework';
+import { IOptions } from './types/structure';
+
+export default Framework;
+
+export {
+	Framework,
+	IOptions,
+};
